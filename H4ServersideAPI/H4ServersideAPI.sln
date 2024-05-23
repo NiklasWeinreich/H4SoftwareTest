@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H4ServersideAPI", "H4ServersideAPI\H4ServersideAPI.csproj", "{F9B80F0C-7070-4F9F-9A6F-57C65FEF94AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9B80F0C-7070-4F9F-9A6F-57C65FEF94AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9B80F0C-7070-4F9F-9A6F-57C65FEF94AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9B80F0C-7070-4F9F-9A6F-57C65FEF94AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9B80F0C-7070-4F9F-9A6F-57C65FEF94AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C22D73FD-921F-4825-AA27-C5145CC3345E}
+	EndGlobalSection
+EndGlobal

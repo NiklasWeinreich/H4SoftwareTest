@@ -1,0 +1,12 @@
+﻿.button-rounded {
+    border-radius: 5px; /* Adjust the value for more or less rounding */
+    background-color: blue; /* Blue background */
+    color: black; /* Black text */
+    border: none; /* Remove border if any */
+    padding: 10px 20px; /* Adjust padding as needed */
+    cursor: pointer; /* Pointer cursor on hover */
+}
+
+.button-rounded:hover {
+    background-color: darkblue; /* Slightly darker blue on hover */
+}
